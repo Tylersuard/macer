@@ -1,7 +1,7 @@
 # MACER: A Modular Framework for Accelerated Compilation Error Repair
 
-## This repo has been modified to include an easy Colab notebook.  Just open the notebook in Colab, set your hardware to GPU, and click "Run All"!
-##  This takes a while so you may want to pet a cat while you wait.
+## ***This repo has been modified to include an easy Colab notebook.  Just open the notebook in Colab, set your hardware to GPU, and click "Run All"!
+##  This takes a while so you may want to pet a cat while you wait.***
 
 This repository is the official implementation of MACER: A Modular Framework for Accelerated Compilation Error Repair. The paper describing the development of this framework can be accessed at [[this arXiv link]](https://arxiv.org/abs/2005.14015)
 
